@@ -1,0 +1,17 @@
+{
+  "username": "Admin",
+  "password": "df6c99f66052a2c5ad7a2427510aecd905c7efb90d3f36a6fe5ead54ce46ca2b8d4aa7d502aa85e57ae4efba866184e8",
+  "stored_passwords": {
+    "35444fc0877dc4cc47376bff24193f8d74eba21f340ef532a12de6dc604f589e": "05b498a30445ca3dc4a956b2b5387a374d97bd5566a78c75b20e4d00c176c155"
+  },
+  "stored_messages": [
+    {
+      "sender": "User",
+      "title": "aasdf asdfasd ",
+      "message": "adasf asdf ",
+      "key": null,
+      "signature": null
+    }
+  ],
+  "signature": "44acdbf76b62828641ef647df58d3ecb3d215660fd8e3e0a3cdeebf22d910c3db71a2f82284a5592d9c154eb5f74d620006170369577d3ee104fc4621fc726572bbca67035677f26688d7027faf1e1306f50280f02bf91788952a3ef26d1b212376b370de7b5298f82ff69287ed0a8c82d3bbe520a7a5d4c9b4bd7f2705f59e5"
+}
