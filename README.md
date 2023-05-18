@@ -1,2 +1,2 @@
 # PasswordManager
-Password manager I did this year for cryptography class 
+Password manager I did in Python this year for cryptography class 
